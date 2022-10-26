@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94741671668'] //ur owner number
-global.ownername = "⏤͟͟͞͞ 𝐂 ͟͞⏤❰❰❰ ⏤͟͟͞͞ 𝐌𝐄𝐌𝐁𝐄𝐑 𝐎𝐅 𝐒𝐋 𝐓𝐄𝐑𝐑𝚯𝐑ꪶꫂ𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐌𝐑. 𝘿𝙄𝘿𝙐𝙇𝘼 ͟͞⏤❱❱❱" //ur owner name
-global.ytname = "YT: Tech and Tricks" //ur yt chanel name
-global.socialm = "GitHub: BlackPanther-svg" //ur github or insta name
-global.location = "Sri Lanka, North Central Province, Anuradhapura" //ur location
+global.vcardowner = ['971504839029'] //ur owner number
+global.ownername = "⏤͟͟͞͞ 𝐂 ͟͞⏤❰❰❰ ⏤͟͟͞͞ NIMUZZZꪶꫂ𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐌𝐑. 𝘿𝙄𝘿𝙐𝙇𝘼 ͟͞⏤❱❱❱" //ur owner name
+global.ytname = "YT: TRAVEL THROUGH D WORLD" //ur yt chanel name
+global.socialm = "GitHub: nimalvarghese" //ur github or insta name
+global.location = "Kochi, Kerala, India" //ur location
 
 //bot bomdy 
-global.owner = ['94741671668']
-global.ownertag = '94741671668' //ur tag number
-global.botname = '⏤͟͟͞͞ 𝐂 ͟͞⏤❰❰❰ ⏤͟͞Queen Ashiya Md͟͞⏤❱❱❱' //ur bot name
-global.linkz = "https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UChP2lplECA2eZGCYLy_QeRA" //ur website to be displayed
-global.botscript = 'https://github.com/BlackPanther-svg/Queen-Ashiya-MD-v3' //script link
+global.owner = ['971504839029']
+global.ownertag = '971504839029' //ur tag number
+global.botname = '⏤͟͟͞͞ 𝐂 ͟͞⏤❰❰❰ ⏤͟͞Lachu Bot⏤❱❱❱' //ur bot name
+global.linkz = "https://www.youtube.com/channel/UCc94Hvy8yWrVrZ3XPV8z7kw" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.youtube.com/channel/UCc94Hvy8yWrVrZ3XPV8z7kw" //ur website to be displayed
+global.botscript = 'https://github.com/nimalvarghese/Queen-Ashiya-MD-v3' //script link
 global.reactmoji = "💘" //ur menu react emoji
 global.themeemoji = "🍃" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "⏤͟͟͞͞ 𝐂 ͟͞⏤❰❰❰ ⏤͟͟͞͞ 𝐌𝐄𝐌𝐁𝐄𝐑 𝐎𝐅 𝐒𝐋 𝐓𝐄𝐑𝐑𝚯𝐑ꪶꫂ𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐌𝐑. 𝘿𝙄𝘿𝙐𝙇𝘼 ͟͞⏤❱❱❱" //ur sticker watermark author
+global.packname = "Nimuzz\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
+global.author = "⏤͟͟͞͞ 𝐂 ͟͞⏤❰❰❰ ⏤͟͟͞͞ Nimuzzꪶꫂ𝐏𝐑𝐈𝐕𝐀𝐓𝐄 𝐌𝐑. 𝘿𝙄𝘿𝙐𝙇𝘼 ͟͞⏤❱❱❱" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['94741671668'] //ur premium numbers
+global.premium = ['971504839029'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
